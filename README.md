@@ -3,9 +3,9 @@ This dataset is preprocessed according to the network based intrusion detection 
 
 0- normal <br />
 1- wrong setup <br />
-2- ddos
-3- Data type probing (ultrasonic sensor was used so in data type probing mostly string values are sent to the server)
-4 - scan attack
+2- ddos <br />
+3- Data type probing (ultrasonic sensor was used so in data type probing mostly string values are sent to the server) <br />
+4 - scan attack <br />
 5 - man in the middle
 
 # Dataset:
